@@ -1,0 +1,104 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,700');
+
+$bg-color: #f7f9ff;
+$text-color: #0c0c0c;
+$primary-color: #ff3500;
+
+$page-width: 780px;
+$content-width: 540px;
+
+$primary-font: 'Roboto', Arial;
+$general-size: 18px;
+$h1-size: 80px;
+$h2-size: 40px;
+$h3-size: 24px;
+
+body {
+    background-color: $bg-color;
+    color: $text-color;
+    font-family: $primary-font;
+    font-size: $general-size;
+    font-weight: 300;
+    line-height: 1.5;
+    max-width: $page-width;
+    margin: 80px auto 80px auto;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+h1 {
+    font-size: $h1-size;
+}
+
+h2 {
+    font-size: $h2-size;
+    margin-bottom: 24px;
+}
+
+h3 {
+    font-size: $h3-size;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    nav a {
+        margin-left: 20px;
+    }
+}
+
+nav a, p a {
+    color: $text-color;
+    text-decoration: none;
+    border-bottom: 3px solid $primary-color;
+}
+
+section {
+    margin: 40px 0 0 0;
+}
+
+p.read-more {
+    font-weight: 700;
+}
+
+div.blog-posts {
+    max-width: $content-width;
+
+    a {
+        text-decoration: none;
+        color: $text-color;
+        display: block;
+        margin-bottom: 80px;
+    }
+}
+
+div.circle {
+    width: 700px;
+    height: 700px;
+    background-color: $primary-color;
+    border-radius: 50%;
+    position: fixed;
+    right: -350px;
+    bottom: -350px;
+    z-index: -1;
+}
+
+div.post {
+    h3 {
+        margin-top: 80px;
+    }
+    p {
+        max-width: $content-width;
+        margin-bottom: 40px;
+    }
+    img {
+        max-width: $page-width;
+    }
+}
