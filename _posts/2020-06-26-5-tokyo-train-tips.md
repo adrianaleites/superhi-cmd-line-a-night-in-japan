@@ -35,4 +35,4 @@ If you suddenly realise you’re passing stations going the wrong direction – 
 
 ![Tokyo subway platform photo](/uploads/blog-3b.jpg)
 
-Still have questions about getting around in Japan? [Visit Top tips for transport in Japan](https://www.2aussietravellers.com/top-tips-for-transport-in-japan/) and while not used on the subways themselves [read everything you need to know about the Japan Rail Pass](https://www.2aussietravellers.com/japan-rail-pass/) to work out if it could be a budget saver for your trip.
+Still have questions about getting around in Japan? Visit [Top tips for transport in Japan](https://www.2aussietravellers.com/top-tips-for-transport-in-japan/) and while not used on the subways themselves read [Everything you need to know about the Japan Rail Pass](https://www.2aussietravellers.com/japan-rail-pass/) to work out if it could be a budget saver for your trip.
