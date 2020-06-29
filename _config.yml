@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: adrianaalvesleites@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: adrianaleites
 github_username: adrianaleites
 theme: minima
