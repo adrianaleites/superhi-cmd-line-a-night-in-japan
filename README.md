@@ -2,7 +2,7 @@
 ---
 # A Night in Japan
 
-[Fictional blog](https://superhi-cmd-line-tropicali.netlify.app/) called "A Night in Japan", developed in the lesson 6 of the SuperHi's online short course: [Command Line for Creatives](https://www.superhi.com/courses/command-line-for-creatives).
+[Fictional blog](http://superhi-cmd-line-a-night-in-japan.siteleaf.net/) called "A Night in Japan", developed in the lesson 6 of the SuperHi's online short course: [Command Line for Creatives](https://www.superhi.com/courses/command-line-for-creatives).
 
 ### Design reference
 The layout design and the UI guidelines, provided by SuperHi for this project, can be found in this [Figma file](https://www.figma.com/file/ec2fnvhrq4367SBvodQDSvTH/A-Night-In-Japan).
